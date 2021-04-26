@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Willa
 - 👀 I’m interested in infrastructure/backend development, learning new skills
-- 🌱 I’m currently working as a software engineer in Amazon
 - 📫 How to reach me willagoodjob@outlook.com
 
 <!---
